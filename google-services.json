@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681109265483",
+    "project_id": "vigenesia-f3932",
+    "storage_bucket": "vigenesia-f3932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681109265483:android:172d2bee944a36bcfec1ce",
+        "android_client_info": {
+          "package_name": "com.unicreate.vignesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681109265483-96e5snmji09sjcbjl7rframb3t587ska.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsWxA0X2ekNPY3cGT3PbI0tPbzggrCyD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681109265483-96e5snmji09sjcbjl7rframb3t587ska.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
